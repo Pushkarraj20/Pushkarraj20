@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi 👋, I'm Pushkar Raj<br><br>🎓 Pursuing BCA from Galgotias University  <br>💻 Passionate about Web Development & Programming  <br>🌱 Currently learning Full Stack Development  <br>👨‍💻 Skilled in HTML, CSS, C, C++, Python, Java & DBMS  <br>🚀 Interested in creating modern websites and software projects  <br>🤝 Looking to collaborate on Web Development Projects  <br>📫 Reach me: your-email@gmail.com  <br>⚡ Fun fact: I love building creative digital projects
+ Hi 👋, I'm Pushkar Raj<br><br>🎓 Pursuing BCA from Galgotias University  <br>💻 Passionate about Web Development & Programming  <br>🌱 Currently learning Full Stack Development  <br>👨‍💻 Skilled in HTML, CSS, C, C++, Python, Java & DBMS  <br>🚀 Interested in creating modern websites and software projects  <br>🤝 Looking to collaborate on Web Development Projects  <br>📫 Reach me: pushkarraj926282@gmail.com  <br>⚡ Fun fact: I love building creative digital projects
 
 
 ## 🌐 Socials:
