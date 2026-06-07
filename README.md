@@ -2,7 +2,7 @@
 <h3 align="center">BCA Student | Full Stack Developer </h3>
 
 <p align="center">
-  <img src="WhatsApp Image 2026-06-07 at 11.00.47 AM.jpeg?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=BCA+Student+at+Galgotias+University;Full+Stack+Developer;Python+Programmer;Always+Learning+New+Technologies" />
+  <img src="WhatsApp Image 2026-06-07 at 11.00.47 AM.jpeg?font=Fira+Code&size=24&pause=300&center=true&width=210&lines=BCA+Student+at+Galgotias+University;Full+Stack+Developer;Python+Programmer;Always+Learning+New+Technologies" />
 </p>
 
 ---
