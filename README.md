@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pushkar Raj</h1>
-<h3 align="center">BCA Student | Full Stack Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">BCA Student | Full Stack Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=BCA+Student+at+Galgotias+University;Full+Stack+Developer;Machine+Learning+Enthusiast;Python+Programmer;Always+Learning+New+Technologies" />
