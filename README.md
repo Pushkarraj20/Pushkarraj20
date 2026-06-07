@@ -1,17 +1,23 @@
-<h1 align="center">Hi 👋, I'm Pushkar Raj</h1>
-<h3 align="center">BCA Student | Full Stack Developer </h3>
-
 <p align="center">
-  <img src="WhatsApp Image 2026-06-07 at 11.00.47 AM.jpeg style="width:250px; height:250px; border-radius: 80%;" ?font=Fira+Code&size=24&pause=300&center=true&width=210&lines=BCA+Student+at+Galgotias+University;Full+Stack+Developer;Python+Programmer;Always+Learning+New+Technologies" />
+<!-- PROFILE PHOTO -->
+<p align="center">
+  <!-- Replace this with your own photo (e.g. ./assets/profile.jpg or a GitHub avatar link) -->
+  <img src="https://github.com/Pushkarraj20/Pushkarraj20/blob/main/WhatsApp%20Image%202026-06-07%20at%2011.00.47%20AM.jpeg" style="width:250px; height:250px; border-radius: 80%;" />
 </p>
 
----
-
-## 🚀 About Me
+<h1 align="center">Hi 👋, I'm Pushkar Raj</h1>
+<h3 align="center"> </h3>
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Front-End+Developer;React+%7C+JavaScript+%7C+Tailwind+CSS;Learning+Python+and+SQL;Hello+World!+Let's+build+something+awesome" 
+    alt="Typing SVG" 
+  />
+</p>
+ 🚀 About Me
 
 🎓 Pursuing **Bachelor of Computer Applications (BCA)** from **Galgotias University**
 
-💻 Passionate about **Web Development, Software Development, and Machine Learning**
+💻 Passionate about **Web Development, Software Development**
 
 🌱 Currently learning **Full Stack Development (MERN Stack)**
 
@@ -27,14 +33,12 @@
 
 🚀 Interested in building:
 - Responsive Websites
-- Machine Learning Applications
 - Data Analysis Projects
 - Software Solutions
 
 🤝 Open to collaborating on:
 - Web Development Projects
 - Open Source Projects
-- Machine Learning Projects
 
 📫 Reach me:
 **pushkarraj926282@gmail.com**
@@ -108,19 +112,7 @@ Personal responsive portfolio website built with HTML, CSS & JavaScript.
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pushkarraj20&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkarraj20&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Pushkarraj20&theme=tokyonight"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -128,14 +120,3 @@ Personal responsive portfolio website built with HTML, CSS & JavaScript.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushkarraj20&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-## ✨ Developer Quote
-
-> "First, solve the problem. Then, write the code."
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pushkarraj20&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
