@@ -1,11 +1,11 @@
 <p align="center">
 
-  
 <!-- PROFILE PHOTO -->
 <p align="center">
   <!-- Replace this with your own photo (e.g. ./assets/profile.jpg or a GitHub avatar link) -->
   <img src="https://github.com/Pushkarraj20/Pushkarraj20/blob/main/WhatsApp%20Image%202026-06-07%20at%2011.00.47%20AM.jpeg" style="width:250px; height:250px; border-radius: 80%;" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Pushkar Raj</h1>
 <h3 align="center"> </h3>
