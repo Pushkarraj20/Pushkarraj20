@@ -23,15 +23,7 @@
 
 🌱 Currently learning **Full Stack Development (MERN Stack)**
 
-👨‍💻 Skilled in:
-- HTML5
-- CSS3
-- JavaScript
-- Python
-- Java
-- C / C++
-- MySQL
-- DBMS
+
 
 🚀 Interested in building:
 - Responsive Websites
