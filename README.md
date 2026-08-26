@@ -1,6 +1,5 @@
 <p align="center">
 
-
 <!-- PROFILE PHOTO -->
 <p align="center">
   <!-- Replace this with your own photo (e.g. ./assets/profile.jpg or a GitHub avatar link) -->
@@ -114,4 +113,5 @@ Personal responsive portfolio website built with HTML, CSS & JavaScript.
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pushkarraj20&theme=tokyo-night&hide_border=true"/>
 </p>
+
 
