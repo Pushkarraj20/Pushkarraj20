@@ -1,7 +1,4 @@
 <p align="center">
-
-
-
   
 <!-- PROFILE PHOTO -->
 <p align="center">
